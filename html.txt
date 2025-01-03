@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conexión Estudiantil</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Vincula el archivo CSS -->
+</head>
+<body>
+    <header>
+        <h1>Bienvenidos a Conexión Estudiantil</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#desahogo">Desahogo</a></li>
+                <li><a href="#consejos">Consejos</a></li>
+                <li><a href="#recursos">Recursos</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="inicio">
+        <h2>Bienvenidos</h2>
+        <p>Un espacio para apoyarte durante el regreso al colegio.</p>
+    </section>
+
+    <section id="desahogo">
+        <h2>Desahogo</h2>
+        <p>Aquí puedes compartir lo que sientes de manera anónima.</p>
+    </section>
+
+    <section id="consejos">
+        <h2>Consejos</h2>
+        <p>¿Tienes preguntas? Pide ayuda aquí.</p>
+    </section>
+
+    <section id="recursos">
+        <h2>Recursos</h2>
+        <ul>
+            <li><a href="#">Artículo sobre manejo de la ansiedad</a></li>
+            <li><a href="#">Video de relajación</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Conexión Estudiantil</p>
+    </footer>
+</body>
+</html>
